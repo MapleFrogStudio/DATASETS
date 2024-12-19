@@ -1,8 +1,4 @@
-﻿Co_ID;PO ID;Exchange;Name;" Root
-Ticker "; MarketCap ; OutstandingShares ;Sector; Sub-Sector ;"HQ
-Location";"HQ
-Region";Listing Type;Listing Date;Interlisted;OTC;CPC;CompositeIndex;2024 Venture 50;USA City;Asia Region;Israel Related;Clean Technology Primary Industry;Cleantech Sub-Sector;"Consumer Products & Services
-Sub-Sector"; Life Sciences Sub-Sector ; Real Estate Sub-Sector ; Technology Sub-Sector ;Trust; Volume ; Value ; Trades ; MonthsTrading 
+﻿CoID;POID;Exchange;Name;RootTicker;MarketCap;OutstandingShares;Sector;SubSector;HQLocation;HQRegion;ListingType;ListingDate;Interlisted;OTC;CPC;CompositeIndex;2024Venture50;USACity;AsiaRegion;IsraelRelated;CleanTechnologyPrimaryIndustry;CleantechSubSector;ConsumerProductsServicesSubSector;LifeSciencesSubSector;RealEstateSubSector;TechnologySubSector;Trust;Volume;Value;Trades;MonthsTrading 
 V-04204;1171065;TSXV;01 Communique Laboratory Inc.;ONE; 7 709 164 ; 96 364 554 ;Technology;;ON;Canada;TSX Comedown;20140731;;;;;;;;;;;;;; Software ;; 6 316 140 ; 382 944 ; 820 ;11
 V-02623;1113792;TSXV;1844 Resources Inc.;EFF; 1 947 765 ; 97 388 258 ;Mining;;SK;Canada;QT from NEX;20120103;;;Y;;;;;;;;;;;;; 8 124 136 ; 146 119 ; 386 ;11
 V-04468;1181462;TSXV;1911 Gold Corporation;AUMB; 25 023 739 ; 153 519 874 ;Mining;;BC;Canada;Other;20180725;;;;;;;;;;;;;;;; 44 035 986 ; 5 571 029 ; 6 208 ;11

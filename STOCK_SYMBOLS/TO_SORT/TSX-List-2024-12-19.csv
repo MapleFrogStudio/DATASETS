@@ -1,11 +1,4 @@
-﻿Co_ID;Exchange;Name;"Root
-Ticker"; MarketCap ; OutstandingShares ;Sector;"Sub
-Sector";"HQ
-Location";"HQ
-Region";Listing Type;Listing Date;Interlisted I;Interlisted II;OTC;"TSX 
-Venture 
-Grad";CPC;S&P/TSX Index;2024 TSX30;Clean Technology Primary Industry;Clean Technology Sub-Sector;"Consumer Products & Services
-Sub-Sector";Life Sciences Sub-Sector;Real Estate Sub-Sector ;Technology Sub-Sector ;USA City;Asia Region;Israel Related;Fund Family;SP_Type;SP_Sub; Volume ; Value ; Trades ; MonthTrading 
+﻿CoID;Exchange;Name;RootTicker;MarketCap;OutstandingShares;Sector;SubSector;HQLocation;HQRegion;ListingType;ListingDate;Interlisted_I;Interlisted_II;OTC;TSXVentureGrad;CPC;SPTSXIndex;2024TSX30;CleanTechnologyPrimaryIndustry;CleanTechnologySubSector;ConsumerProductsServicesSubSector;LifeSciencesSubSector;RealEstateSubSector;TechnologySubSector;USACity;AsiaRegion;IsraelRelated;FundFamily;SPType;SPSub;Volume;Value;Trades;MonthTrading 
 TWE0003;TSX;2028 Investment Grade Bond Trust;IGBT; 34 377 462 ; 3 274 044 ; Closed-End Funds ;;ON;Canada;IPO;20231221;;;;;;;;;;;;;;;;;Next Edge Capital Corp.;Fund of Debt;FI Trust; 907 450 ; 9 253 157 ; 1 008 ; 11 
 IQC0001;TSX;3iQ Bitcoin ETF;BTCQ; 328 512 485 ; 21 598 454 ; ETP ;Blockchain/Cryptocurrency;ON;Canada;IPO;20210419;;;;;;;;;;;;;;;;;3iQ;Exchange Traded Funds;; 7 813 960 ; 103 600 437 ; 21 400 ; 11 
 IQC0002;TSX;3iQ Ether Staking ETF;ETHQ; 86 486 222 ; 6 090 579 ; ETP ;Blockchain/Cryptocurrency;ON;Canada;IPO;20210423;;;;;;;;;;;;;;;;;3iQ;Exchange Traded Funds;; 4 196 652 ; 66 072 072 ; 11 727 ; 11 
